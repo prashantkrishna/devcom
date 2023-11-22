@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# devcom
+developer's community app just like linkedin developed by Youtube tutorial
+>>>>>>> 5a231f547696ec9e5710b546c63350a1abd6d947
